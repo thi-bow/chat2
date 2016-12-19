@@ -1,0 +1,70 @@
+1482111013,SysOP,urisyari Login.
+1482111027,urisyari,kakakikukeko
+1482111042,urisyari,kakikikukeko
+1482111056,urisyari,kakikukukeko
+1482111062,urisyari,kakikukekeko
+1482111066,urisyari,kakikukekoko
+1482111107,urisyari,圧縮圧縮空気を圧縮～
+1482116264,SysOP,urisyari Login.
+1482116289,SysOP,urisyari Logout.
+1482116993,SysOP,urisyari Login.
+1482122133,SysOP,urisyari Login.
+1482122138,SysOP,urisyari Login.
+1482122140,SysOP,urisyari Login.
+1482122206,SysOP,urisyari Login.
+1482124003,SysOP,urisyari Login.
+1482124010,SysOP,urisyari Login.
+1482124091,SysOP,urisyari Login.
+1482124097,SysOP,urisyari Login.
+1482124103,SysOP,urisyari Logout.
+1482125416,SysOP,urisyari Login.
+1482125543,SysOP,urisyari Login.
+1482125551,SysOP,urisyari Login.
+1482125698,SysOP,urisyari Login.
+1482125777,SysOP,ton Login.
+1482125799,SysOP,ton Login.
+1482126138,SysOP,ton Login.
+1482126224,SysOP,ton Login.
+1482126302,SysOP,ton Login.
+1482126333,SysOP,ton Login.
+1482126388,SysOP,ton Login.
+1482126439,SysOP,ton Login.
+1482126457,SysOP,ton Login.
+1482126503,SysOP,ton Login.
+1482126505,SysOP,ton Login.
+1482126528,SysOP,ton Login.
+1482126723,SysOP,tom Login.
+1482126836,SysOP,tom Login.
+1482127330,SysOP,tom Login.
+1482127332,SysOP,tom Login.
+1482127338,SysOP,ton Login.
+1482127400,SysOP,ton Login.
+1482127408,SysOP,tom Login.
+1482127602,SysOP,tom Login.
+1482127604,SysOP,tom Login.
+1482127658,SysOP,tom Login.
+1482127692,SysOP,tom Login.
+1482127719,SysOP,tom Login.
+1482127728,SysOP,tom Login.
+1482127786,SysOP,tom Login.
+1482127807,SysOP,tom Login.
+1482127953,SysOP,tom Login.
+1482127970,SysOP,tom Login.
+1482127984,SysOP,tom Login.
+1482127988,SysOP,tom Logout.
+1482127996,SysOP,mike Login.
+1482128001,SysOP,mike Logout.
+1482128005,SysOP,a Login.
+1482128241,SysOP,mike Logout.
+1482128246,SysOP,tom Login.
+1482128257,SysOP,tom Login.
+1482128297,SysOP,tom Login.
+1482128316,SysOP,tom Login.
+1482128352,SysOP,tom Login.
+1482128455,SysOP,tom Logout.
+1482128629,SysOP,tom Login.
+1482128643,SysOP,tom Login.
+1482128737,SysOP,tom Login.
+1482128884,SysOP,tom Login.
+1482128891,SysOP,tom Login.
+1482128905,SysOP,tom Login.
